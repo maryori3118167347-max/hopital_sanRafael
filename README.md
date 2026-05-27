@@ -36,10 +36,10 @@ El proyecto utiliza Docker Compose para levantar automáticamente todos los serv
 
 # Autenticación
 <img width="921" height="502" alt="imagen" src="https://github.com/user-attachments/assets/a58d132e-30c8-41da-b937-1a6c3ed55400" />
+
 #  Gestión de Usuarios
 
 <img width="921" height="482" alt="imagen" src="https://github.com/user-attachments/assets/7b02ece6-bcaa-472e-b952-c41f70e5481e" />
-
 
 <img width="1600" height="846" alt="WhatsApp Image 2026-05-27 at 10 00 10 AM" src="https://github.com/user-attachments/assets/6322945d-88a9-4975-80d1-35d15f37ebc6" />
 
