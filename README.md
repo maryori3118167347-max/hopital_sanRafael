@@ -1,7 +1,15 @@
-# Sistema de Monitoreo de Infraestructura TI - Hospital Universitario San Rafael
+# Integrantes:
+Angie Paola Mateus Gutierrez 
 
-Este proyecto consiste en un sistema de monitoreo de infraestructura TI desarrollado para el Hospital Universitario San Rafael utilizando una arquitectura basada en microservicios.
+Juan Esteban Gonzalez Pacheco
+
+Maryori Brigith Barrera Ascanio
+
 ----
+# Sistema de Monitoreo de Infraestructura TI - Hospital Universitario San Rafael
+Este proyecto consiste en un sistema de monitoreo de infraestructura TI desarrollado para el Hospital Universitario San Rafael utilizando una arquitectura basada en microservicios.
+
+
 # La solución permite gestionar                                                      // Estructura general
 
 - Usuarios                                                       /                      users_service/
