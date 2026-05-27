@@ -37,6 +37,8 @@ El proyecto utiliza Docker Compose para levantar automáticamente todos los serv
 # Autenticación
 <img width="921" height="502" alt="imagen" src="https://github.com/user-attachments/assets/a58d132e-30c8-41da-b937-1a6c3ed55400" />
 
+<img width="921" height="482" alt="imagen" src="https://github.com/user-attachments/assets/7b02ece6-bcaa-472e-b952-c41f70e5481e" />
+
 <img width="921" height="499" alt="imagen" src="https://github.com/user-attachments/assets/5a74e4e3-25a4-4e1d-92c0-fb05b0d5b4f1" />
 
 <img width="921" height="486" alt="imagen" src="https://github.com/user-attachments/assets/81d989fc-e3a1-46ee-a3b6-b48648ba85fe" />
@@ -52,8 +54,6 @@ El proyecto utiliza Docker Compose para levantar automáticamente todos los serv
 
 # Listar dispositivos
 <img width="921" height="486" alt="imagen" src="https://github.com/user-attachments/assets/b8bea501-bbc7-4b1e-8f57-791f02889a4a" />
-
-<img width="921" height="482" alt="imagen" src="https://github.com/user-attachments/assets/7b02ece6-bcaa-472e-b952-c41f70e5481e" />
 
 <img width="921" height="486" alt="imagen" src="https://github.com/user-attachments/assets/1b18340f-4003-4ae3-b32e-6bc15eb70311" />
 
